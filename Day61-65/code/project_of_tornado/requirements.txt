@@ -1,7 +1,7 @@
 aiomysql==0.0.20
 asn1crypto==0.24.0
 cffi==1.12.2
-cryptography==2.6.1
+cryptography==3.2
 pycparser==2.19
 PyMySQL==0.9.2
 six==1.12.0
